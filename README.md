@@ -24,8 +24,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
  
 ## Program
 ```
-Developed By: RAVIPRASATH K
-Register No: 212224230225
+Developed By: Vishnuram G N
+Register No: 212225240187
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -56,4 +56,5 @@ print("---------------------------------------------------------------")
 <img width="860" height="400" alt="Screenshot 2026-05-16 135513" src="https://github.com/user-attachments/assets/bc67fa8b-3832-4898-9a43-e6abf429d122" />
 
 ## Result :
-
+The average number of material in the sysytem and in the conveyor and waiting time are
+successfully found
